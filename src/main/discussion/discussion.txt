@@ -1,0 +1,8 @@
+//TODO
+
+1. Decide Tech stack
+2. Decide  db-schema
+3. Design high level design
+4. Design low level design
+5. Decide flow diagrams
+6. Do we need to add RBAC (role-based-access-control)
